@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=fishymael&color=CD7138)
 
+⠀⠀
+
 <img width="96" height="100" alt="image" src="https://github.com/user-attachments/assets/d41f1d06-f147-4e98-9ed3-4fb38f53611f" /> <img width="160" height="54" alt="image" src="https://github.com/user-attachments/assets/8c23f182-b729-40fc-8a47-5609547d372f" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77331&background=FF000000&width=435&lines=If+you+please%2C+call+me+Ishmael.)](https://git.io/typing-svg)
